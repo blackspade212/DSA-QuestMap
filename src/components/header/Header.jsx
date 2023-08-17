@@ -45,7 +45,6 @@ const Header = ({
                             isDarkMode ? 'defaultColor_dark' : 'defaultColor'
                         }
                     >
-                        Start Practicing
                     </Text>
                 ) : (
                     <TotalProgressBar data={data} />
